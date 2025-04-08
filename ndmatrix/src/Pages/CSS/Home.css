@@ -1,0 +1,11 @@
+.logo {
+    width: 100vw;
+    height: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2.lctext {
+    text-align: center;
+    font-size: 3rem;
+}
