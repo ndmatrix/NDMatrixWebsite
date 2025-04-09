@@ -1,9 +1,10 @@
 .logo {
-    width: 100vw;
-    height: 50vw;
+    width: auto;
+    height: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
+    /* height: 100%; */
 }
 h2.lctext {
     text-align: center;
