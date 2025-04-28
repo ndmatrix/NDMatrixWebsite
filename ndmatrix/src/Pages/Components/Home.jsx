@@ -7,7 +7,7 @@ const Home = () => {
             <div className="logo">
          <img src={logoimg}/>
          </div>
-         <h2 className="lctext">We are launching soon....!!</h2>
+         <h2 className="lctext">We are coming this july 20205</h2>
         </div>
     )
 }
